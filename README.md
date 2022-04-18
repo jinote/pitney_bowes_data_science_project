@@ -16,8 +16,8 @@ Pintey Bowes must be proactive about identifying potential problems early on to 
 ### Goal
 Building the models and predicting which meters will fail within the next 7 days and features caused the failure.
 
-# Business Understanding
-### Lean Canvas
+### Business Understanding
+#### Lean Canvas
 ![Alt text](https://github.com/jinote/pitney_bowes_data_science_project/blob/main/lean-canvas.png)
 
 **Problem Analysis**
@@ -27,6 +27,6 @@ Building the models and predicting which meters will fail within the next 7 days
 - This is a battery life time prediction problem. Our team did some research and found that temperature and voltage are two major factors to battery life. From a business perspective, deployed date and product segmentation which can be inferred from deviceid or so may give us some clues on the prediction.
 
 
-### Design Thinking
+#### Design Thinking
 ![Alt text](https://github.com/jinote/pitney_bowes_data_science_project/blob/main/design-thinking.jpg)
 
