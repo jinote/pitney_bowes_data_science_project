@@ -28,5 +28,5 @@ Building the models and predicting which meters will fail within the next 7 days
 
 
 ### Design Thinking
-![Alt text](https://github.com/jinote/pitney_bowes_data_science_project/blob/main/design-thinking.png)
+![Alt text](https://github.com/jinote/pitney_bowes_data_science_project/blob/main/design-thinking.jpg)
 
