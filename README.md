@@ -13,7 +13,7 @@ Pitney Bowes should specially keep an eye on the following meter features:
 
 ### Problem Statement
 Pintey Bowes must be proactive about identifying potential problems early on to avoid any sort of disruption for their client business.
-### Goal
+### Project Goal
 Building the models and predicting which meters will fail within the next 7 days and features caused the failure.
 
 ### Technology used
@@ -22,7 +22,7 @@ Building the models and predicting which meters will fail within the next 7 days
 - Jupyter Notebook 
 - Google Colab
 
-### Steps
+### Data Science Process
 1. Exploratory Data Analysis (EDA)
 2. Data Preprocessing (Normalization/Standardization, outliers, missing values, imbalanced data)
 3. Feature Engineering (PCA, T-test, Polynomial Features, New Features)
