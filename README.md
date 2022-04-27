@@ -16,6 +16,12 @@ Pintey Bowes must be proactive about identifying potential problems early on to 
 ### Goal
 Building the models and predicting which meters will fail within the next 7 days and features caused the failure.
 
+### Technology used
+- Python 
+- Excel 
+- Jupyter Notebook 
+- Google Colab
+
 ### Steps
 1. Exploratory Data Analysis (EDA)
 2. Data Preprocessing (Normalization/Standardization, outliers, missing values, imbalanced data)
@@ -23,7 +29,6 @@ Building the models and predicting which meters will fail within the next 7 days
 4. Building, training & comparing ML Models (Light GBM, RF, GBC, DT, LR, NB, etc.)
 5. Model Evaluation 
 6. Business Conclusion & Recommendations
-
 
 ### Business Understanding
 #### Lean Canvas
