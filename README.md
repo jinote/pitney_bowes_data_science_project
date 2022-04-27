@@ -11,16 +11,17 @@ Pitney Bowes should specially keep an eye on the following meter features:
 4. Number days in use
 5. Number of times that meter restarts
 
-### Problem Statement
-Pintey Bowes must be proactive about identifying potential problems early on to avoid any sort of disruption for their client business.
-### Project Goal
-Building the models and predicting which meters will fail within the next 7 days and features caused the failure.
-
 ### Technology used
 - Python 
 - Excel 
 - Jupyter Notebook 
 - Google Colab
+
+### Problem Statement
+Pintey Bowes must be proactive about identifying potential problems early on to avoid any sort of disruption for their client business.
+
+### Project Goal
+Building the models and predicting which meters will fail within the next 7 days and features caused the failure.
 
 ### Data Science Process
 1. Exploratory Data Analysis (EDA)
