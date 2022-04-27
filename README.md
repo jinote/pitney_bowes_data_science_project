@@ -16,6 +16,15 @@ Pintey Bowes must be proactive about identifying potential problems early on to 
 ### Goal
 Building the models and predicting which meters will fail within the next 7 days and features caused the failure.
 
+### Steps
+1. Exploratory Data Analysis (EDA)
+2. Data Preprocessing (Normalization/Standardization, outliers, missing values, imbalanced data)
+3. Feature Engineering (PCA, T-test, Polynomial Features, New Features)
+4. Building, training & comparing ML Models (Light GBM, RF, GBC, DT, LR, NB, etc.)
+5. Model Evaluation 
+6. Business Conclusion & Recommendations
+
+
 ### Business Understanding
 #### Lean Canvas
 ![Alt text](https://github.com/jinote/pitney_bowes_data_science_project/blob/main/lean-canvas.png)
