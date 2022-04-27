@@ -3,7 +3,7 @@
 ### Summary
 The best model selected is LGBM with an accuracy of 81.09% and F1 score of 51%. Decision Tree is underperforming (accuracy: 79.17%, f1 score: 50.50%) but it is easier to explain than LGBM.
 
-Pitney Bowes should specially keep an eye on the following meter features:
+Pitney Bowes should especially keep an eye on the following meter features:
 
 1. Charge Cycle time below 12
 2. Discharging/Charging Rate by day 3
